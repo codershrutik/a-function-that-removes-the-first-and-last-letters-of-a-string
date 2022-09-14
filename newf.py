@@ -1,0 +1,1 @@
+someString[1:-1] if len(someString) > 2 else None
